@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int findarrayMax(int score[], int n)
+int findArrayMax(int score[], int n)
 {
 	int tmp = score[0];
 	for (int i = 1; i < n; i++) {
@@ -10,11 +10,11 @@ int findarrayMax(int score[], int n)
 	}
 	return tmp;
 }
-
-void main()
+int main()
 {
-	int score[5] = { 12, 123, 12, 54, 1 };
+	int score[5] = { 12, 123, 12, 54 , 1 };
 	int out;
-	out = findarrayMax(score, 5);
-	printf("result = %d, out");
+	out = findArrayMax(score, 5);
+	printf("result = %d", out);
+	return 0;
 }
