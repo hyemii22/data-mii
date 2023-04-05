@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap02_Array", "Chap02_Arra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap02_Find_Max", "Chap02_Find_Max\Chap02_Find_Max.vcxproj", "{BFFBA36D-D237-43CF-A090-26591FDD6170}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chap02_Car", "Chap02_Car\Chap02_Car.vcxproj", "{188B5C36-9119-40D5-975F-C41DD3B7B377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BFFBA36D-D237-43CF-A090-26591FDD6170}.Release|x64.Build.0 = Release|x64
 		{BFFBA36D-D237-43CF-A090-26591FDD6170}.Release|x86.ActiveCfg = Release|Win32
 		{BFFBA36D-D237-43CF-A090-26591FDD6170}.Release|x86.Build.0 = Release|Win32
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Debug|x64.ActiveCfg = Debug|x64
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Debug|x64.Build.0 = Debug|x64
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Debug|x86.ActiveCfg = Debug|Win32
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Debug|x86.Build.0 = Debug|Win32
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Release|x64.ActiveCfg = Release|x64
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Release|x64.Build.0 = Release|x64
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Release|x86.ActiveCfg = Release|Win32
+		{188B5C36-9119-40D5-975F-C41DD3B7B377}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
