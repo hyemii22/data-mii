@@ -3,8 +3,8 @@
 
 int main()
 {
-	Car yourCar;
-	//Car myCar(100, "my car", 4);
+	//Car yourCar;
+	Car yourCar(100, 4, "your car");
 	yourCar.display();
 	yourCar.whereAm();
 	yourCar.gear = 5;
@@ -17,5 +17,6 @@ int main()
 	myCar.speedUp();
 	myCar.display();
 	myCar.whereAm();
+	
 	return 0;
 }

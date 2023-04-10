@@ -13,7 +13,7 @@ public:  //외부 접근 가능
 	int gear;
 	Car() : speed(0), gear(0), name("") {} //생성자
 	~Car(){}  //소멸자
-	Car(int s, char* n, int g)
+	Car(int s, int g, const char*n)
 		: speed(s), gear(g) {
 		strcpy_s(name, n);  // n 문자열을 name에 copy
 	}
