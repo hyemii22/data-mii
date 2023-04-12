@@ -1,7 +1,0 @@
-﻿  polynomial.cpp
-C:\Users\전자공학부\Desktop\data-mii\Chap02_Array_Class\Chap02_Array_ex\polynomial.cpp(10,4): error C2039: 'display': 'Polynomial'의 멤버가 아닙니다.
-C:\Users\전자공학부\Desktop\data-mii\Chap02_Array_Class\Chap02_Array_ex\polynomial.h(5): message : 'Polynomial' 선언을 참조하십시오.
-C:\Users\전자공학부\Desktop\data-mii\Chap02_Array_Class\Chap02_Array_ex\polynomial.cpp(11,4): error C2039: 'display': 'Polynomial'의 멤버가 아닙니다.
-C:\Users\전자공학부\Desktop\data-mii\Chap02_Array_Class\Chap02_Array_ex\polynomial.h(5): message : 'Polynomial' 선언을 참조하십시오.
-C:\Users\전자공학부\Desktop\data-mii\Chap02_Array_Class\Chap02_Array_ex\polynomial.cpp(12,4): error C2039: 'display': 'Polynomial'의 멤버가 아닙니다.
-C:\Users\전자공학부\Desktop\data-mii\Chap02_Array_Class\Chap02_Array_ex\polynomial.h(5): message : 'Polynomial' 선언을 참조하십시오.
